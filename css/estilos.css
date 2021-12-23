@@ -6,7 +6,7 @@ body{
     width: 80%;
     margin: auto;
     text-align: center;
-   
+  
 }
 
 .img{
@@ -30,4 +30,8 @@ img{
 
 .azul{
     color: rgb(108, 108, 196);
+}
+
+.rojo2{
+    color: rgb(204, 155, 155);
 }

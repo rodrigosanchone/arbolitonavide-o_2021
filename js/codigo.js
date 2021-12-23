@@ -24,8 +24,17 @@ for(let i=0;i<17;i++){
 
     function hola(){
       if(i%2==0){
-        p.classList.toggle('azul')
+        if(classList="rojo"){
+          p.classList.toggle('verde')
+        }
+         
+      } else{
+        if(classList="verde"){
+          p.classList.toggle('azul')
+        }
       }
+
+      
      
       
   }
