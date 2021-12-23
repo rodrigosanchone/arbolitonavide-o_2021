@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(231, 201, 201);
+}
+
+.contenedor{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+   
+}
+
+.img{
+    width: 80%;
+    margin: 0 10%;
+   
+}
+
+img{
+    width: 100%;
+ 
+}
+
+.rojo{
+    color: red;
+}
+
+.verde{
+    color: green;
+}
+
+.azul{
+    color: rgb(108, 108, 196);
+}
